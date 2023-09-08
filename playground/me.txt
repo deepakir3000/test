@@ -1,3 +1,0 @@
-Name : Deepak Kumar Gouda
-Skills : Java,HTML,CSS,JavaScript,NodeJs,ReactJs,MYSQL,Wordpress,Docker
-Email : deepakkumargouda425@gmail.com
